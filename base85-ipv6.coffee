@@ -27,7 +27,3 @@ module.exports =
 
     chars.reverse().join ''
 
-
-
-
-
