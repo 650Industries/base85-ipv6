@@ -1,0 +1,29 @@
+{
+  "name": "base85-ipv6",
+  "version": "0.0.0",
+  "description": "Implementation of encoding in the ipv6 form of base85 as detailed in RFC 1924",
+  "main": "base85-ipv6.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/650Industries/base85-ipv6.git"
+  },
+  "keywords": [
+    "base85",
+    "ipv6",
+    "base",
+    "encoding",
+    "decoding"
+  ],
+  "author": "650 Industries",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/650Industries/base85-ipv6/issues"
+  },
+  "homepage": "https://github.com/650Industries/base85-ipv6",
+  "dependencies": {
+    "big-integer": "^1.1.8"
+  }
+}
